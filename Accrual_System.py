@@ -422,4 +422,3 @@ acc.balance_deduction(2,req_id)
 statement = ['SELECT * FROM requests;']
 results = db.execute(statement)
 results
-
